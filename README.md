@@ -1,1 +1,1 @@
-# IPR_Project_SmartAlarmClock
+# IPR Project Smart Alarm Clock Using Raspberry Pi and Python Programming Language
